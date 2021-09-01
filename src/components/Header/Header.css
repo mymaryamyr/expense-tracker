@@ -1,0 +1,12 @@
+.header {
+	padding: 1rem;
+	background-color: rgb(218 253 220);
+	margin: 2rem auto;
+	width: 50rem;
+	max-width: 95%;
+}
+.header__title {
+	margin: 0 10px;
+	font-size: 24px;
+	line-height: 36px;
+}
