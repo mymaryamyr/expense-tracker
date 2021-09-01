@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mymaryamyr/expense-tracker.git/static/css/main.c6ae8abd.chunk.css",
+    "main.js": "/mymaryamyr/expense-tracker.git/static/js/main.8f3ed7a0.chunk.js",
+    "main.js.map": "/mymaryamyr/expense-tracker.git/static/js/main.8f3ed7a0.chunk.js.map",
+    "runtime-main.js": "/mymaryamyr/expense-tracker.git/static/js/runtime-main.0e516e7f.js",
+    "runtime-main.js.map": "/mymaryamyr/expense-tracker.git/static/js/runtime-main.0e516e7f.js.map",
+    "static/js/2.cb0501f7.chunk.js": "/mymaryamyr/expense-tracker.git/static/js/2.cb0501f7.chunk.js",
+    "static/js/2.cb0501f7.chunk.js.map": "/mymaryamyr/expense-tracker.git/static/js/2.cb0501f7.chunk.js.map",
+    "index.html": "/mymaryamyr/expense-tracker.git/index.html",
+    "static/css/main.c6ae8abd.chunk.css.map": "/mymaryamyr/expense-tracker.git/static/css/main.c6ae8abd.chunk.css.map",
+    "static/js/2.cb0501f7.chunk.js.LICENSE.txt": "/mymaryamyr/expense-tracker.git/static/js/2.cb0501f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e516e7f.js",
+    "static/js/2.cb0501f7.chunk.js",
+    "static/css/main.c6ae8abd.chunk.css",
+    "static/js/main.8f3ed7a0.chunk.js"
+  ]
+}
